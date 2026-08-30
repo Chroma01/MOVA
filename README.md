@@ -353,13 +353,10 @@ We would like to thank the contributors to [Wan](https://github.com/Wan-Video/Wa
 
 ## Star History
 
-<!-- star-history:start -->
-<p align="center">
-  <a href="https://github.com/OpenMOSS/MOVA/stargazers">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenMOSS/MOVA/star-history-assets/assets/star-history/star-history-dark.svg">
-      <img alt="MOVA star history" src="https://raw.githubusercontent.com/OpenMOSS/MOVA/star-history-assets/assets/star-history/star-history-light.svg">
-    </picture>
-  </a>
-</p>
-<!-- star-history:end -->
+<a href="https://www.star-history.com/?repos=OpenMOSS%2FMOVA&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOVA&type=date&theme=dark&legend=top-left&sealed_token=gWvGQJ5CC2jpx1gbx9wgHfOZWwQaukcYoeJwfhryf3zAxMFUKpHcEdvPd18FzCS4p0YGg6fBqLUbbSlA7yfXZQ-jpdtEEjNOtDAa_9ahFAz4Vt-4H14R_1TcnqKrHBA4n4p1rytF2MfQyFCiJ125IwNyRzO_0zv_bkRJgHExpjTaxPy4H5ftSCYO7DQb" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOVA&type=date&legend=top-left&sealed_token=gWvGQJ5CC2jpx1gbx9wgHfOZWwQaukcYoeJwfhryf3zAxMFUKpHcEdvPd18FzCS4p0YGg6fBqLUbbSlA7yfXZQ-jpdtEEjNOtDAa_9ahFAz4Vt-4H14R_1TcnqKrHBA4n4p1rytF2MfQyFCiJ125IwNyRzO_0zv_bkRJgHExpjTaxPy4H5ftSCYO7DQb" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=OpenMOSS/MOVA&type=date&legend=top-left&sealed_token=gWvGQJ5CC2jpx1gbx9wgHfOZWwQaukcYoeJwfhryf3zAxMFUKpHcEdvPd18FzCS4p0YGg6fBqLUbbSlA7yfXZQ-jpdtEEjNOtDAa_9ahFAz4Vt-4H14R_1TcnqKrHBA4n4p1rytF2MfQyFCiJ125IwNyRzO_0zv_bkRJgHExpjTaxPy4H5ftSCYO7DQb" />
+ </picture>
+</a>
